@@ -1,0 +1,8 @@
+{
+	"name": "Velocimeter",
+	"references": [
+		"UnityEngine.UI",
+		"Unity.TextMeshPro",
+		"Unity.Mathematics"
+	]
+}
